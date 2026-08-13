@@ -1,6 +1,38 @@
-Logging my hours on Soil Sip since there seems to be some issues for me on the iPad
+# 📓 Soil-Sip Project Journal
 
-Thursday July 16th 2026, recorded a timelapse on Hackclub Stardance. ~17 min | Desing a rough sketch of my Soil Sip project
-Thursday July 16th 2026 about an hour or so later, desgined a 3d model of the project on Tinkercad. ~11 min | Link: https://drive.google.com/file/d/1QkAz4JGMqjsJJrjUdX3WQrIUzcoJmNmS/view?usp=drivesdk
-Monday July 20th 2026, Coded and degbugged and fixed some wiring issues on Tinkercad. I also fix some wiring mistakes not on the screen recording ~29 min | Link: https://drive.google.com/file/d/17dRseZW0rPvkM0-qmFFVwAep_MJId4mV/view?usp=drivesdk
-Tuesday August 11 2026, I got the water pump, took me about 15 to 20 min to solder male header tip to the black and red wires of the pump. I also recorded a timelapse on the lapse about 5 min assembling all the circuits and sensors and pumps. After I went onto arduino ide and pasted my code onto the ide and uploaded to the arduino board. It finally works now!! I am currently assembling it into a project box so everything won’t fall out. Link: https://drive.google.com/file/d/1ywj6-D9fATkyIJdkV_aup7bptVK9wZP7/view?usp=drivesdk
+> **Note:** Soil-Sip is a personal passion project I've wanted to build for a long time. I joined Hack Club while working on it to document my progress alongside other builders, so you might see references like "already time lapsed" from Hack Club's built-in timelapse counter.
+
+---
+
+### 📅 Thursday, July 16, 2026
+* **Task:** Initial Concept Sketching & Planning
+* **Time Spent:** ~17 min
+* **Details:** Spent time mapping out the core design and structure for the Soil-Sip system. Sketched out a rough diagram to visualize how the soil moisture sensor, microcontroller, relay, and water pump will interface together to automate plant care.
+* **Notes:** Recorded a timelapse session on Hack Club Stardance.
+
+---
+
+### 📅 Thursday, July 16, 2026 (Later Session)
+* **Task:** Tinkercad 3D Design Session
+* **Time Spent:** ~11 min
+* **Details:** Jumped into Tinkercad to start modeling the physical structure of the project. Worked on designing a housing frame to hold the electronics safely away from the water source.
+* **Link:** [Work Session on Tinkercad](https://drive.google.com/file/d/1QKAz4JGMqjsJJrJUdX3WQrIUzcoJmNmS/view?usp=drivesdk)
+
+---
+
+### 📅 Monday, July 20, 2026
+* **Task:** Circuit Simulation & Code Debugging
+* **Time Spent:** ~29 min
+* **Details:** Built a virtual prototype of the circuit in Tinkercad. Wrote the base logic for reading sensor values and triggering the pump. Caught and corrected several wiring missteps and logic bugs during simulation before moving to physical hardware.
+* **Link:** [Work Session Recording](https://drive.google.com/file/d/17dRseZw0rPvkM0-qmFFVwAep_MJiD4mV/view?usp=drivesdk)
+
+---
+
+### 📅 Tuesday, August 11, 2026
+* **Task:** Soldering, Hardware Wiring, and System Testing
+* **Time Spent:** ~20–25 min total (~15–20 min soldering, ~5 min setup/testing)
+* **Details:** * Soldered male header tips onto the red and black power leads of the water pump so they can connect cleanly to the breadboard/relay.
+  * Wired up the complete circuit on physical hardware, combining the Arduino board, moisture sensor, relay module, and water pump. Recorded a ~5 minute timelapse of assembling the circuits, sensors, and pumps using the built-in Hack Club timelapse counter.
+  * Copied the code into the Arduino IDE, compiled it, and uploaded it to the microcontroller.
+  * **Result:** **It finally works!!** The sensor successfully detects moisture levels and triggers the pump as intended. Currently working on mounting all components into a secure project box so wires don't pull free.
+* **Link:** [Test Video](https://drive.google.com/file/d/1ywj6-D9fATkyIJdkV_aup7bptVK9wZP7/view?usp=drivesdk)
