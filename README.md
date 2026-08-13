@@ -1,7 +1,5 @@
 # Soil-Sip
 
-(Note: Soil-Sip is a personal passion project I've wanted to build for a long time. I joined Hack Club while working on it to document my progress alongside other builders so fyi you might see in my journal things like “already time lapsed” just from the Hack Club’s built timelapse counter)
-
 > An automated plant watering system that keeps your plants hydrated based on soil moisture levels.
 
 ---
