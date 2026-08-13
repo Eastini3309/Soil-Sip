@@ -24,7 +24,7 @@
 * **Task:** Circuit Simulation & Code Debugging
 * **Time Spent:** ~29 min
 * **Details:** Built a virtual prototype of the circuit in Tinkercad. Wrote the base logic for reading sensor values and triggering the pump. Caught and corrected several wiring missteps and logic bugs during simulation before moving to physical hardware.
-* **Link:** [Work Session Recording](https://drive.google.com/file/d/17dRseZw0rPvkM0-qmFFVwAep_MJiD4mV/view?usp=drivesdk)
+* **Link:** [Work Session Recording](https://drive.google.com/file/d/17dRseZW0rPvkM0-qmFFVwAep_MJId4mV/view?usp=drivesdk)
 
 ---
 
@@ -32,7 +32,7 @@
 * **Task:** Soldering, Hardware Wiring, and System Testing
 * **Time Spent:** ~20–25 min total (~15–20 min soldering, ~5 min setup/testing)
 * **Details:** * Soldered male header tips onto the red and black power leads of the water pump so they can connect cleanly to the breadboard/relay.
-  * Wired up the complete circuit on physical hardware, combining the Arduino board, moisture sensor, relay module, and water pump. Recorded a ~5 minute timelapse of assembling the circuits, sensors, and pumps using the built-in Hack Club timelapse counter.
+  * Wired up the complete circuit on physical hardware, combining the Arduino board, moisture sensor, relay module, and water pump.
   * Copied the code into the Arduino IDE, compiled it, and uploaded it to the microcontroller.
   * **Result:** **It finally works!!** The sensor successfully detects moisture levels and triggers the pump as intended. Currently working on mounting all components into a secure project box so wires don't pull free.
 * **Link:** [Test Video](https://drive.google.com/file/d/1ywj6-D9fATkyIJdkV_aup7bptVK9wZP7/view?usp=drivesdk)
