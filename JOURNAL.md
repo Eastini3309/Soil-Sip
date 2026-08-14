@@ -16,7 +16,7 @@
 * **Task:** Tinkercad 3D Design Session
 * **Time Spent:** ~11 min
 * **Details:** Jumped into Tinkercad to start modeling the physical structure of the project. Worked on designing a housing frame to hold the electronics safely away from the water source.
-* **Link:** [Work Session on Tinkercad](https://drive.google.com/file/d/1QKAz4JGMqjsJJrJUdX3WQrIUzcoJmNmS/view?usp=drivesdk)
+* **Link:** [Work Session on Tinkercad](https://drive.google.com/file/d/1QkAz4JGMqjsJJrjUdX3WQrIUzcoJmNmS/view)
 
 ---
 
