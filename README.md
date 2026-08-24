@@ -16,7 +16,7 @@
 * **Sensor:** Soil Moisture Sensor
 * **Actuator:** 5V Mini Submersible Water Pump
 * **Power Supply:** 6v 4x AA Battery Pack
-* **Misc:** Jumper Wires, 2N2222 Transistor, 1N4007 Diode, 330Ω Resistor, Tubing, Water Resivoir
+* **Misc:** Jumper Wires, 2N2222 Transistor, 1N4007 Diode, 330Ω Resistor, Tubing, Water Reservoir, Breadboard
 
 ---
 
