@@ -26,4 +26,7 @@
 2. Open `soil_sip.ino` in the Arduino IDE.
 3. Select your board and port, then upload the code.
 
-```cpp
+---
+
+## 🌐 Interactive Model
+* [View live model on Tinkercad]([https://www.tinkercad.com](https://www.tinkercad.com/things/6baPPIA3ffR-soil-sip?sharecode=P2RLULkH1Hgg-_Y5SQ-erGE9e9SSS3rMDTGG3Rebe_s))
