@@ -28,7 +28,7 @@
 
 ---
 
-# 🔌 Soil-Sip Circuit Schematic
+# 🔌 Soil-Sip Circuit Model
 
 Click the link below to view and interact with the 3D circuit layout in Tinkercad:
 
