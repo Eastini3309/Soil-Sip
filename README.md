@@ -28,5 +28,8 @@
 
 ---
 
-## 🌐 Interactive Model
-* [View live model on Tinkercad]([https://www.tinkercad.com](https://www.tinkercad.com/things/6baPPIA3ffR-soil-sip?sharecode=P2RLULkH1Hgg-_Y5SQ-erGE9e9SSS3rMDTGG3Rebe_s))
+# 🔌 Soil-Sip Circuit Schematic
+
+Click the link below to view and interact with the 3D circuit layout in Tinkercad:
+
+* 🌐 [View Interactive Circuit Model on Tinkercad][(https://www.tinkercad.com)](https://www.tinkercad.com/things/6baPPIA3ffR-soil-sip?sharecode=P2RLULkH1Hgg-_Y5SQ-erGE9e9SSS3rMDTGG3Rebe_s)
