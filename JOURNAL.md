@@ -23,7 +23,7 @@
 ### 📅 Monday, July 20, 2026
 * **Task:** Circuit Simulation & Code Debugging
 * **Time Spent:** ~29 min
-* **Details:** Built a virtual prototype of the circuit in Tinkercad. Wrote the base logic for reading sensor values and triggering the pump. Caught and corrected several wiring missteps and logic bugs during simulation before moving to physical hardware.
+* **Details:** Wrote the base logic for reading sensor values and triggering the pump. I did have ai help me a lot with C++ syntax as I only know how to code a little of python and a little of javascript. I also caught and corrected several wiring missteps and logic bugs during simulation before moving to physical hardware. Had ai check my wiring just to make sure nothing would go wrong irl.
 * **Link:** [Work Session Recording](https://drive.google.com/file/d/17dRseZW0rPvkM0-qmFFVwAep_MJId4mV/view?usp=drivesdk)
 
 ---
