@@ -30,7 +30,7 @@
 
 ### 📅 Tuesday, August 11, 2026
 * **Task:** Soldering, Hardware Wiring, and System Testing
-* **Time Spent:** ~30–35 min total (~15–20 min soldering, ~5 min setup/testing, ~10 min wiring it into project box)
+* **Time Spent:** ~30–35 min total (~15–20 min soldering, ~5 min setup/testing(time lapsed), ~10 min wiring it into project box)
 * **Details:** * Soldered male header tips onto the red and black power leads of the water pump so they can connect cleanly to the breadboard/relay.
   * Wired up the complete circuit on physical hardware, combining the Arduino board, moisture sensor, relay module, and water pump.
   * Copied the code into the Arduino IDE, compiled it, and uploaded it to the microcontroller.
