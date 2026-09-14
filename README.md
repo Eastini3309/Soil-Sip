@@ -30,7 +30,7 @@
 ## 💻 Circuit & Code Setup
 
 1. Clone or download this repository.
-2. Open `SOIL-SIP-ARDUINO-CODE.ino` in the Arduino IDE.
+2. Open `soil_sip.ino` in the Arduino IDE.
 3. Select your board and port, then upload the code.
 
 ---
