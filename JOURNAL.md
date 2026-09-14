@@ -4,6 +4,13 @@
 
 ---
 
+### 📅 Friday, June 19, 2026
+* **Task:** Microcontroller Soldering & Initial Breadboard Prototyping
+* **Details:** Worked on soldering header pins onto my Raspberry Pi Pico and prototyping the initial wiring for the soil moisture sensor on the breadboard to get some progress made before leaving for vacation. 
+* **Issues Encountered:** Accidentally spilled solder onto the Pico's `BOOTSEL` button, rendering the chip useless. Switched the project plan over to an Arduino Uno—the only other microcontroller I had on hand at the time.
+
+---
+
 ### 📅 Thursday, July 16, 2026
 * **Task:** Initial Concept Sketching & Planning
 * **Time Spent:** ~17 min
@@ -23,7 +30,7 @@
 ### 📅 Monday, July 20, 2026
 * **Task:** Circuit Simulation & Code Debugging
 * **Time Spent:** ~29 min
-* **Details:** Wrote the base logic for reading sensor values and triggering the pump. I did have ai help me a lot with C++ syntax as I only know how to code a little of python and a little of javascript. I also caught and corrected several wiring missteps and logic bugs during simulation before moving to physical hardware. Had ai check my wiring just to make sure nothing would go wrong irl.
+* **Details:** Wrote the base logic for reading sensor values and triggering the pump. I did have AI help me a lot with C++ syntax as I only know how to code a little of Python and a little of JavaScript. I also caught and corrected several wiring missteps and logic bugs during simulation before moving to physical hardware. Had AI check my wiring just to make sure nothing would go wrong irl.
 * **Link:** [Work Session Recording](https://drive.google.com/file/d/17dRseZW0rPvkM0-qmFFVwAep_MJId4mV/view?usp=drivesdk)
 
 ---
@@ -31,7 +38,8 @@
 ### 📅 Tuesday, August 11, 2026
 * **Task:** Soldering, Hardware Wiring, and System Testing
 * **Time Spent:** ~30–35 min total (~15–20 min soldering, ~5 min setup/testing(time lapsed), ~10 min wiring it into project box)
-* **Details:** * Soldered male header tips onto the red and black power leads of the water pump so they can connect cleanly to the breadboard/relay.
+* **Details:** 
+  * Soldered male header tips onto the red and black power leads of the water pump so they can connect cleanly to the breadboard/relay.
   * Wired up the complete circuit on physical hardware, combining the Arduino board, moisture sensor, relay module, and water pump.
   * Copied the code into the Arduino IDE, compiled it, and uploaded it to the microcontroller.
   * **Result:** **It finally works!!** The sensor successfully detects moisture levels and triggers the pump as intended. Currently working on mounting all components into a secure project box so wires don't pull free.
