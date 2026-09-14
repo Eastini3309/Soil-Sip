@@ -14,7 +14,7 @@
 ### 📅 Thursday, July 16, 2026
 * **Task:** Initial Concept Sketching & Planning
 * **Time Spent:** ~17 min
-* **Details:** Spent time mapping out the core design and structure for the Soil-Sip system. Sketched out a rough diagram to visualize how the soil moisture sensor, microcontroller, relay, and water pump will interface together to automate plant care.
+* **Details:** Spent time mapping out the core design and structure for the Soil-Sip system. Sketched out a rough diagram to visualize how the soil moisture sensor, microcontroller, transistor, and water pump will interface together to automate plant care.
 * **Notes:** Recorded a timelapse session on Hack Club Stardance.
 
 ---
@@ -40,7 +40,8 @@
 * **Time Spent:** ~30–35 min total (~15–20 min soldering, ~5 min setup/testing(time lapsed), ~10 min wiring it into project box)
 * **Details:** 
   * Soldered male header tips onto the red and black power leads of the water pump so they can connect cleanly to the breadboard/relay.
-  * Wired up the complete circuit on physical hardware, combining the Arduino board, moisture sensor, relay module, and water pump.
+  * Wired up the complete circuit on physical hardware, combining the Arduino board, moisture sensor, transistor, and water pump.
   * Copied the code into the Arduino IDE, compiled it, and uploaded it to the microcontroller.
-  * **Result:** **It finally works!!** The sensor successfully detects moisture levels and triggers the pump as intended. Currently working on mounting all components into a secure project box so wires don't pull free.
+  * **Result:** **It finally works!!** The sensor successfully detects moisture levels and triggers the pump as intended. 
+  * **Issues Encountered:** While refitting all the components into the project box so wires wouldn't pull free, I accidentally placed the diode in backwards. This caused the transistor to overheat rapidly, burning my finger when I touched it!
 * **Link:** [Test Video](https://drive.google.com/file/d/1ywj6-D9fATkyIJdkV_aup7bptVK9wZP7/view?usp=drivesdk)
