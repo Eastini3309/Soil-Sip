@@ -55,7 +55,7 @@
 * **Time Spent:** ~2 hours
 * **Details:** 
   * Created and configured the public GitHub repository (`Soil-Sip`).
-  * Added the Arduino C++ source code file (`SOIL-SIP-ARDUINO-CODE.ino`) directly to the `main` branch.
+  * Added the Arduino C++ source code file (`soil_sip.ino`) directly to the `main` branch.
   * Structured and formatted core project documentation, including `JOURNAL.md`, `README.md`, and schematic references.
   * Verified and updated external media links and code syntax formatting.
   * *(Note: This entry covers the main structural work done on the repository. Minor maintenance and small formatting tweaks made after August 13th are omitted from this log.)*
