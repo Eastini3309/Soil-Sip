@@ -1,6 +1,7 @@
 # 📓 Soil-Sip Project Journal
 
-> **Note:** Soil-Sip is a personal passion project I've wanted to build for a long time. I joined Hack Club while working on it to document my progress alongside other builders, so you might see references like "already time lapsed" from Hack Club's built-in timelapse counter.
+> **Note:** Soil-Sip is a personal passion project I've wanted to build for a long time. I joined Hack Club while working on it to document my progress alongside other builders, so you might see references like "already time lapsed" from Hack Club's built-in timelapse counter. Also keep in mind that this Journal does not include the amount of time I spent on researching/learning about microcontrollers + parts.
+> **Side Note:** This journal is being retroactively updated (as of September 2026) to document project milestones, build logs, and hours from earlier in the project timeline (June – August 2026).
 
 ---
 
@@ -45,3 +46,15 @@
   * **Result:** **It finally works!!** The sensor successfully detects moisture levels and triggers the pump as intended. 
   * **Issues Encountered:** While refitting all the components into the project box so wires wouldn't pull free, I accidentally placed the diode in backwards. This caused the transistor to overheat rapidly, burning my finger when I touched it!
 * **Link:** [Test Video](https://drive.google.com/file/d/1ywj6-D9fATkyIJdkV_aup7bptVK9wZP7/view?usp=drivesdk)
+
+---
+
+### 📅 Thursday, August 13, 2026
+* **Task:** Major Repository Setup, Code Migration, & Core Documentation
+* **Time Spent:** ~2 hours
+* **Details:** 
+  * Created and configured the public GitHub repository (`Soil-Sip`).
+  * Added the Arduino C++ source code file (`SOIL-SIP-ARDUINO-CODE.ino`) directly to the `main` branch.
+  * Structured and formatted core project documentation, including `JOURNAL.md`, `README.md`, and schematic references.
+  * Verified and updated external media links and code syntax formatting.
+  * *(Note: This entry covers the main structural work done on the repository. Minor maintenance and small formatting tweaks made after August 13th are omitted from this log.)*
