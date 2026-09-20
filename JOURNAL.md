@@ -7,7 +7,8 @@
 
 ### 📅 Friday, June 19, 2026
 * **Task:** Microcontroller Soldering & Initial Breadboard Prototyping
-* **Details:** Worked on soldering header pins onto my Raspberry Pi Pico and prototyping the initial wiring for the soil moisture sensor on the breadboard to get some progress made before leaving for vacation. No video but I spent around an 2 hours trying to understand the circuit and why the diode, transistor, and external battery pack was needed.
+* **Time Spent:** ~4 hours
+* **Details:** Worked on soldering header pins onto my Raspberry Pi Pico and prototyping the initial wiring for the soil moisture sensor on the breadboard to get some progress made before leaving for vacation. No video but I spent around an 4 hours trying to understand the circuit and why the diode, transistor, and external battery pack was needed. Along side that I also helped a little with my friend’s own personal project
 * **Issues Encountered:** Accidentally spilled solder onto the Pico's `BOOTSEL` button, rendering the chip useless. Switched the project plan over to an Arduino Uno—the only other microcontroller I had on hand at the time.
 
 ---
@@ -44,7 +45,7 @@
   * Wired up the complete circuit on physical hardware, combining the Arduino board, moisture sensor, transistor, and water pump.
   * Copied the code into the Arduino IDE, compiled it, and uploaded it to the microcontroller.
   * **Result:** **It finally works!!** The sensor successfully detects moisture levels and triggers the pump as intended. 
-  * **Issues Encountered:** While refitting all the components into the project box so wires wouldn't pull free, I accidentally placed the diode in backwards. This caused the transistor to overheat rapidly, burning my finger when I touched it!
+  * **Issues Encountered:** While refitting all the components into the project box so wires wouldn't pull free, I accidentally placed the diode in backwards. This caused the transistor to overheat rapidly, burning my finger when I touched it.
 * **Link:** [Test Video](https://drive.google.com/file/d/1ywj6-D9fATkyIJdkV_aup7bptVK9wZP7/view?usp=drivesdk)
 
 ---
