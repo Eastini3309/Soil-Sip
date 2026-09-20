@@ -14,7 +14,7 @@
 ### 📅 Thursday, July 16, 2026
 * **Task:** Initial Concept Sketching & Planning
 * **Time Spent:** ~17 min
-* **Details:** Spent time mapping out the core design and structure for the Soil-Sip system. Sketched out a rough diagram to visualize how the soil moisture sensor, microcontroller, transistor, and water pump will interface together to automate plant care.
+* **Details:** Spent time mapping out the core design and structure for the Soil-Sip system. Sketched out a rough diagram to visualize how the soil moisture sensor, microcontroller, transistor, and water pump will interface together to automate plant care. I originally had the plans all drawn out for the Raspberry Pi Pico but now I have to plan for an Arduino.
 * **Notes:** Recorded a timelapse session on Hack Club Stardance.
 
 ---
