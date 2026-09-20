@@ -6,7 +6,7 @@
 
 ### 📅 Friday, June 19, 2026
 * **Task:** Microcontroller Soldering & Initial Breadboard Prototyping
-* **Details:** Worked on soldering header pins onto my Raspberry Pi Pico and prototyping the initial wiring for the soil moisture sensor on the breadboard to get some progress made before leaving for vacation. 
+* **Details:** Worked on soldering header pins onto my Raspberry Pi Pico and prototyping the initial wiring for the soil moisture sensor on the breadboard to get some progress made before leaving for vacation. No video but I spent around an 2 hours trying to understand the circuit and why the diode, transistor, and external battery pack was needed.
 * **Issues Encountered:** Accidentally spilled solder onto the Pico's `BOOTSEL` button, rendering the chip useless. Switched the project plan over to an Arduino Uno—the only other microcontroller I had on hand at the time.
 
 ---
